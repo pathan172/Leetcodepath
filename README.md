@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0595-big-countries](https://github.com/pathan172/Leetcodepath/tree/master/0595-big-countries) |
 | [1174-immediate-food-delivery-ii](https://github.com/pathan172/Leetcodepath/tree/master/1174-immediate-food-delivery-ii) |
 | [1683-invalid-tweets](https://github.com/pathan172/Leetcodepath/tree/master/1683-invalid-tweets) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/pathan172/Leetcodepath/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
