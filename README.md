@@ -10,4 +10,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/pathan172/Leetcodepath/tree/master/1683-invalid-tweets) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/pathan172/Leetcodepath/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/pathan172/Leetcodepath/tree/master/1757-recyclable-and-low-fat-products) |
+## Math
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/pathan172/Leetcodepath/tree/master/0412-fizz-buzz) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/pathan172/Leetcodepath/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/pathan172/Leetcodepath/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
