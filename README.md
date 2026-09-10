@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pathan172/Leetcodepath/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/pathan172/Leetcodepath/tree/master/0412-fizz-buzz) |
 | [1108-defanging-an-ip-address](https://github.com/pathan172/Leetcodepath/tree/master/1108-defanging-an-ip-address) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/pathan172/Leetcodepath/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Simulation
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pathan172/Leetcodepath/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/pathan172/Leetcodepath/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/pathan172/Leetcodepath/tree/master/1672-richest-customer-wealth) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/pathan172/Leetcodepath/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/pathan172/Leetcodepath/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/pathan172/Leetcodepath/tree/master/0344-reverse-string) |
 | [0905-sort-array-by-parity](https://github.com/pathan172/Leetcodepath/tree/master/0905-sort-array-by-parity) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/pathan172/Leetcodepath/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Divide and Conquer
 |  |
 | ------- |
