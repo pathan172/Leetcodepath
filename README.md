@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/pathan172/Leetcodepath/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/pathan172/Leetcodepath/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/pathan172/Leetcodepath/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/pathan172/Leetcodepath/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pathan172/Leetcodepath/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/pathan172/Leetcodepath/tree/master/0412-fizz-buzz) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/pathan172/Leetcodepath/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/pathan172/Leetcodepath/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/pathan172/Leetcodepath/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/pathan172/Leetcodepath/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/pathan172/Leetcodepath/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/pathan172/Leetcodepath/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/pathan172/Leetcodepath/tree/master/0088-merge-sorted-array) |
