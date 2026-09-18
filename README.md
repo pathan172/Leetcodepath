@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/pathan172/Leetcodepath/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/pathan172/Leetcodepath/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/pathan172/Leetcodepath/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pathan172/Leetcodepath/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/pathan172/Leetcodepath/tree/master/0509-fibonacci-number) |
@@ -208,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pathan172/Leetcodepath/tree/master/0852-peak-index-in-a-mountain-array) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/pathan172/Leetcodepath/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
