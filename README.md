@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/pathan172/Leetcodepath/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/pathan172/Leetcodepath/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/pathan172/Leetcodepath/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/pathan172/Leetcodepath/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/pathan172/Leetcodepath/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/pathan172/Leetcodepath/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/pathan172/Leetcodepath/tree/master/0412-fizz-buzz) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/pathan172/Leetcodepath/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/pathan172/Leetcodepath/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/pathan172/Leetcodepath/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pathan172/Leetcodepath/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/pathan172/Leetcodepath/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/pathan172/Leetcodepath/tree/master/0704-binary-search) |
@@ -213,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/pathan172/Leetcodepath/tree/master/0206-reverse-linked-list) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/pathan172/Leetcodepath/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
