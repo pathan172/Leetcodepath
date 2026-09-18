@@ -1,5 +1,5 @@
 class Solution:
-    def getHours (self,piles,mid):
+    def getHours (self,piles,mid):#o(n)
         ans=0
         for pile in piles:
             ans+= (pile+mid-1)//mid
@@ -8,7 +8,7 @@ class Solution:
         n = len(piles)
         l =1
         r =max(piles)
-        while l<=r:
+        while l<=r:      #o(logn)
             mid=(l+r)//2
             if self.getHours (piles,mid)>h:
                 l=mid+1
@@ -16,3 +16,5 @@ class Solution:
                 k=mid
                 r=mid-1
         return k
+
+        #overall o(nlognmax)
