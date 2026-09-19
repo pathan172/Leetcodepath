@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/pathan172/Leetcodepath/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/pathan172/Leetcodepath/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/pathan172/Leetcodepath/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/pathan172/Leetcodepath/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pathan172/Leetcodepath/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/pathan172/Leetcodepath/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/pathan172/Leetcodepath/tree/master/1480-running-sum-of-1d-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/pathan172/Leetcodepath/tree/master/0435-non-overlapping-intervals) |
 | [0905-sort-array-by-parity](https://github.com/pathan172/Leetcodepath/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/pathan172/Leetcodepath/tree/master/0912-sort-an-array) |
+| [0922-sort-array-by-parity-ii](https://github.com/pathan172/Leetcodepath/tree/master/0922-sort-array-by-parity-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/pathan172/Leetcodepath/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
 |  |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/pathan172/Leetcodepath/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/pathan172/Leetcodepath/tree/master/0349-intersection-of-two-arrays) |
 | [0905-sort-array-by-parity](https://github.com/pathan172/Leetcodepath/tree/master/0905-sort-array-by-parity) |
+| [0922-sort-array-by-parity-ii](https://github.com/pathan172/Leetcodepath/tree/master/0922-sort-array-by-parity-ii) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/pathan172/Leetcodepath/tree/master/2108-find-first-palindromic-string-in-the-array) |
 ## Divide and Conquer
 |  |
