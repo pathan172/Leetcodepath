@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/pathan172/Leetcodepath/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/pathan172/Leetcodepath/tree/master/0435-non-overlapping-intervals) |
 | [0704-binary-search](https://github.com/pathan172/Leetcodepath/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/pathan172/Leetcodepath/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pathan172/Leetcodepath/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/pathan172/Leetcodepath/tree/master/0875-koko-eating-bananas) |
 | [0905-sort-array-by-parity](https://github.com/pathan172/Leetcodepath/tree/master/0905-sort-array-by-parity) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pathan172/Leetcodepath/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/pathan172/Leetcodepath/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/pathan172/Leetcodepath/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/pathan172/Leetcodepath/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/pathan172/Leetcodepath/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/pathan172/Leetcodepath/tree/master/0875-koko-eating-bananas) |
 ## Queue
